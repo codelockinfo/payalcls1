@@ -1443,6 +1443,7 @@
           "1585640154849": {
             "type": "img",
             "settings": {
+              "image": "shopify:\/\/shop_images\/review2.webp",
               "pos_img": "center center",
               "cl_img": "",
               "link_img1": "",
@@ -3845,6 +3846,65 @@
         "settings": {
           "blogimg": "shopify:\/\/shop_images\/woman-does-bridge-pose-yoga-on-path.jpg"
         }
+      },
+      "03917b11-42f6-4408-a7da-94079e2018e7": {
+        "type": "banner2",
+        "blocks": {
+          "03917b11-42f6-4408-a7da-94079e2018e7-168190597691c39549-0": {
+            "type": "image",
+            "settings": {
+              "url": "",
+              "open_link": "_self",
+              "col_pr": "6",
+              "col_pr_tb": "6",
+              "col_pr_mb": "6",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#fff",
+              "cl_overlay": "#000",
+              "cl_opacity": 0
+            }
+          },
+          "03917b11-42f6-4408-a7da-94079e2018e7-168190597691c39549-1": {
+            "type": "image",
+            "settings": {
+              "url": "",
+              "open_link": "_self",
+              "col_pr": "6",
+              "col_pr_tb": "6",
+              "col_pr_mb": "6",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#fff",
+              "cl_overlay": "#000",
+              "cl_opacity": 0
+            }
+          }
+        },
+        "block_order": [
+          "03917b11-42f6-4408-a7da-94079e2018e7-168190597691c39549-0",
+          "03917b11-42f6-4408-a7da-94079e2018e7-168190597691c39549-1"
+        ],
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_1",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "cat_space": "30",
+          "hoverz": true,
+          "layout": "container",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
       }
     },
     "content_for_index": [
@@ -3856,7 +3916,8 @@
       "1581508031759",
       "1596624928746",
       "1597058003104",
-      "080148d7-3f90-482e-8c27-d6854bf33854"
+      "080148d7-3f90-482e-8c27-d6854bf33854",
+      "03917b11-42f6-4408-a7da-94079e2018e7"
     ]
   }
 }
